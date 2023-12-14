@@ -1,0 +1,34 @@
+Jeremy Bowers M 34 Dunstable Road.
+
+
+How did we find him with Eliott ? well it's SIMPLE ( lol ) :
+
+
+1st : We use "grep" to find in the "crimescene" report the CLUE and get 3 CLUE :
+
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+
+
+--
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name on it ( that strange )
+
+
+--
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+
+
+So base on him we focus on the 2nd CLUE : The criminal is a member of 4 specific place : AAA, Delta SkyMiles, the local library, and the Museum of Bash History.
+
+And we have access to the list of EACH of this place.
+
+
+So with a complex command base on "grep", "comm" and "sort", we found the name of almost 15 people who are member of this 4 place.
+
+
+
+
+Here in 2nd we use the 1st CLUE : in the "vehicles" files, you can find the height of people : soooo here begin a not funny task :
+
+with Eliott we search the height of EACH of the ~15 people who are member of the 4 place and eliminate all who was not man and not >= 6' tall.
+

@@ -1,0 +1,275 @@
+    1  ls
+    2  ls
+    3  ls
+    4  cd Documents/DossGits/
+    5  cd $
+    6  cd
+    7  cd C
+    8  cd c/
+    9  cd ..
+   10  cd ..
+   11  ls
+   12  mkdir Algo
+   13  cd Algo/
+   14  git init
+   15  rm
+   16  rm --help
+   17  ls
+   18  cd ..
+   19  mkdir GameProg
+   20  mv Algo/ GameProg/
+   21  cd GameProg/
+   22  ls
+   23  git clone https://github.com/TheProtonFlo/1stAlgoProject.git
+   24  ls
+   25  cd 1stAlgoProject/
+   26  cd..
+   27  cd ..
+   28  mkdir TrainShell ; cd TrainingShell ; touch scriptTest.sh
+   29  cd TrainShell ; touch scriptTest.sh
+   30  ls
+   31  vim scriptTest.sh 
+   32  cd ..
+   33  ls
+   34  cd 1stAlgoProject/
+   35  git log
+   36  git status
+   37  git config -global user.email florent.conceptvisu@gmail.com
+   38  git config --global user.email florent.conceptvisu@gmail.com
+   39  git config --global user.name TheProtonFlo
+   40  git commit -m "Testing Commit"
+   41  touch testScript.sh
+   42  vim testScript.sh 
+   43  git commit -m "Testing Commit"
+   44  git add testScript.sh 
+   45  git commit -m "Testing Commit"
+   46  git push
+   47  man touch
+   48  ls
+   49  cd ..
+   50  ls
+   51  cd flore/
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd Default user/
+   56  cd 'Default User'/
+   57  ls
+   58  Desktop/
+   59  ls
+   60  cd Desktop/
+   61  ls
+   62  cd $
+   63  cd ../../../
+   64  cd ..
+   65  ls
+   66  cd mingw64/
+   67  cd
+   68  ls
+   69  cd 'Mes documents'/
+   70  ls
+   71  git --version
+   72  ls
+   73  'Mes documents'/
+   74  cd 'Mes documents'/
+   75  ls
+   76  cd 'Projet Unity'/
+   77  ls
+   78  cd ../../../
+   79  ls
+   80  cd flore/
+   81  ls
+   82  cd Documents/
+   83  ls
+   84  mkdir hello-world
+   85  cd hello-world/
+   86  git init
+   87  cd ..
+   88  rm hello-world/
+   89  man rm
+   90  rm --help
+   91  rm -r hello-world/
+   92  cd DossGit/
+   93  git init
+   94  cat readme.txt
+   95  cat
+   96  cd Documents/
+   97  ls
+   98  cd DossGit/
+   99  ls
+  100  touch readme.txt
+  101  cat readme.txt 
+  102  vim readme.txt 
+  103  cd Documents/DossGit/
+  104  ls
+  105  cat readme.txt
+  106  git status
+  107  git add readme.txt
+  108  git commit -m "Création du fichier readme youhou"
+  109  git diff
+  110  git add readme.txt
+  111  git commit -m "Update du readme.txt"
+  112  cd ..
+  113  cd ESSCA-git/
+  114  ls
+  115  git init
+  116  ls
+  117  cat essca.html
+  118  touch essca.html
+  119  git add essca.html
+  120  git commit -m "ESSCA is my home"
+  121  ls -al ~/.ssh
+  122  ssh-keygen -t ed25519 -C "florent.conceptvisu@gmail.com"
+  123  cd
+  124  ls
+  125  cd Documents/
+  126  ls
+  127  cd ESSCA-git/
+  128  ls
+  129  cd ..../
+  130  cd../..
+  131  cd../../
+  132  cd ../../
+  133  cd .ssh/
+  134  ls
+  135  cd ../
+  136  cd ~/.profile
+  137  cd ~/.bashrc
+  138  ls
+  139  cd Documents/
+  140  ls
+  141  cd DossGit/
+  142  ls
+  143  cat readme.txt
+  144  git clone [200~env=~/.ssh/agent.env
+  145  git clone https://github.com/TheProtonFlo/helloWorld.git
+  146  git pull
+  147  ls
+  148  cd Documents/
+  149  ls
+  150  cd DossGit
+  151  ls
+  152  git clone 
+  153  git clone https://github.com/TheProtonFlo/exam_shell_aglo_b1_fork.git
+  154  ls
+  155  cd exam_shell_aglo_b1_fork/
+  156  ls
+  157  cat README.md
+  158  cd Rush/
+  159  ls
+  160  cd Murder_in_terminal_city/
+  161  ls
+  162  nano README.md 
+  163  ls -l
+  164  nano README.md 
+  165  clear
+  166  ls
+  167  nano instructions 
+  168  nano cheatsheet.md
+  169  grep --help
+  170  ls
+  171  touch criminalFound.txt
+  172  ls
+  173  nano criminalFound.txt 
+  174  git commit *
+  175  git add *
+  176  git commit *
+  177  cd Documents/DossGit/
+  178  ls
+  179  cd exam_shell_aglo_b1_fork/Rush/Murder_in_terminal_city/
+  180  ls
+  181  cd mystery/
+  182  ls
+  183  nano crimescene
+  184  ls
+  185  cd interviews/
+  186  ls
+  187  cd ../
+  188  nano crimescene
+  189  nano crimescene
+  190  nano vehicles 
+  191  nano vehicles 
+  192  cd streets/
+  193  ls
+  194  cd../
+  195  cd ..
+  196  cd memberships/
+  197  ls
+  198  nano AAA
+  199  nano Delta_SkyMiles 
+  200  cd Museum_of_Bash_History 
+  201  nano Museum_of_Bash_History 
+  202  cd ../
+  203  ls
+  204  cd interviews/
+  205  grep -r "Annabel Church" *
+  206  grep -r "Annabel Sun" *
+  207  ls
+  208  nano interview-000296 
+  209  cd ../
+  210  cd crimescene 
+  211  nano crimescene 
+  212  man grep
+  213  grep --help
+  214  ls
+  215  cd memberships/
+  216  ls
+  217  grep -F -f AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library 
+  218  obtain PATTERN from FILE
+  219  grep -f AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library 
+  220  comm -12 <(grep -F -f AAA.txt Delta_SkyMiles.txt) <(grep -F -f AAA.txt Museum_of_Bash_History.txt) | grep -F -f - Terminal_City_Library.txt
+  221  comm -12 <(grep -F -f AAA Delta_SkyMiles) <(grep -F -f AAA Museum_of_Bash_History) | grep -F -f - Terminal_City_Library
+  222  comm -12 <(grep -f AAA Delta_SkyMiles) <(grep -f AAA Museum_of_Bash_History) | grep -f - Terminal_City_Library
+  223  grep -F -f AAA Delta_SkyMiles Museum_of_Bash_History Terminal_City_Library
+  224  clear
+  225  comm -12 <(grep -F -f AAA Delta_SkyMiles) <(grep -F -f AAA Museum_of_Bash_History) | grep -F -f - Terminal_City_Library
+  226  comm -12 <(grep -F -f AAA Delta_SkyMiles | sort) <(grep -F -f AAA Museum_of_Bash_History | sort) | grep -F -f - <(sort Terminal_City_Library)
+  227  cd ../
+  228  ls
+  229  nano people
+  230  nano vehicles
+  231  cd streets/
+  232  grep -r "bar"
+  233  grep -r -w "bar"
+  234  grep -r -w "shoot"
+  235  grep -r -w "shot"
+  236  grep -r -w "Buckingham Place"
+  237  grep -r "Buckingham Place"
+  238  grep -r "Buckingham_Place"
+  239  grep -r "B_Place"
+  240  grep -r "Buckingham_P"
+  241  ls
+  242  grep -r "Buckingham_Place"
+  243  nano Buckingham_Place 
+  244  cd ../
+  245  nano vehicles
+  246  nano vehicles
+  247  cd ../
+  248  ls
+  249  nano instructions
+  250  ls -a
+  251  cd mystery/
+  252  ls -a
+  253  ls --help
+  254  git commit -m "rajout d'un fichier contenant le raisonnement pour résoudre l'enquête avec eliott ( en cours d'écriture )"
+  255  git commit -m "rajout d'un fichier contenant le raisonnement pour résoudre l'enquête avec eliott ( en cours d'écriture )"
+  256  cd ../
+  257  ls
+  258  git commit -m "rajout d'un fichier contenant le raisonnement pour résoudre l'enquête avec eliott ( en cours d'écriture )"
+  259  git add *
+  260  cd
+  261  ls
+  262  cd Documents/
+  263  ls
+  264  cd DossGit/
+  265  ls
+  266  cd exam_shell_aglo_b1_fork/
+  267  ls
+  268  cd Rush
+  269  ls
+  270  Murder_in_terminal_city/
+  271  cd Murder_in_terminal_city/
+  272  ls
+  273  touch CommandHistoryToSolveTheCase
+  274  ls
+  275  history > CommandHistoryToSolveTheCase 
